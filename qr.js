@@ -65,25 +65,25 @@ router.get('/', async (req, res) => {
 
 > 1st STEP
 *TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 *_https://whatsapp.com/channel/0029VaX6kguGk1Fr135z610I_*
+𓄂 https://whatsapp.com/channel/0029VaX6kguGk1Fr135z610I
 
 > 2nd STEP
 *YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 *_https://chat.whatsapp.com/LcMZEQJA1ps7w0oXP3NzHt_*
+𓄂 https://chat.whatsapp.com/LcMZEQJA1ps7w0oXP3NzHt
 
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/Investor45/kentech_md_*
+𓄂 https://github.com/Investor45/kentech_md
 
 > 4th STEP 
 *VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
-𓄂 *_https://www.youtube.com/@freeonlinetvT1_*
+𓄂 https://www.youtube.com/@freeonlinetvT1
 
 *DEVELOPER1: KEN TECH*
-𓄂 *_https://wa.me/237670217260_*
+𓄂 https://wa.me/237670217260
 
 *DEVELOPER2:FREDIE_TECH*
-𓄂 *_https://wa.me/255752593977*
+𓄂 https://wa.me/255752593977
 
 > MADE ON EARTH BY FREDIE🇹🇿
 > CREATED BY KEN TECH💎 `
