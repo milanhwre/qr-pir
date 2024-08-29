@@ -77,6 +77,7 @@ router.get('/', async (req, res) => {
 > 3rd STEP
 *FORK AND STAR 🌟 THE REPO FOR COURAGE*
 𓄂 https://github.com/Investor45/kentech_md
+> https://github.com/Fred1e/LUCKY_MD
 
 > 4th STEP 
 *VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
