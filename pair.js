@@ -57,40 +57,30 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*KENTECH MD PAIRING CODE CONNECTED*
+*ACD MD PAIRING CODE CONNECTED*
 
-> You have completed the first step of Deploying *KENTECH_MD*
+> You have completed the first step of Deploying *ACD_MD*
 > Copy the above session Id and deploy your bot.
-> ASK DEVELOPER KENTECH FOR BOT DEPLOYMENT ✅ 
+> ASK DEVELOPER ACD MD FOR BOT DEPLOYMENT ✅ 
 > Meanwhile you must follow the 4 steps. 
 
 > 1st STEP
 
-> 1st STEP
-*TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 https://whatsapp.com/channel/0029VaX6kguGk1Fr135z610I
+> *YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
+𓄂 https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e
 
-> 2nd STEP
-*YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 https://chat.whatsapp.com/LcMZEQJA1ps7w0oXP3NzHt
+> *FORK AND STAR 🌟 THE REPO FOR COURAGE*
+𓄂 
+> https://github.com/DAFAMD2007/ACD-MD-BOT-V1
 
-> 3rd STEP
-*FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 https://github.com/Investor45/kentech_md
-> https://github.com/Fred1e/LUCKY_MD
+*DEVELOPER: KING DINA*
+𓄂 https://wa.me/94743366235
 
-> 4th STEP 
-*VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
-𓄂 https://www.youtube.com/@freeonlinetvT1
+*DEVELOPER PAIR:CRONAZ XD*
+𓄂 https://wa.me/918138898059
+> Dm ME ☝️ FOR WHATSAPP PAIR DEPLOYMENT 🔥 🔥 
 
-*DEVELOPER1: KEN TECH*
-𓄂 https://wa.me/237670217260
-
-*DEVELOPER2:FREDIE_TECH*
-𓄂 https://wa.me/255752593977
-> Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
-
-> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 BY KENTECH ✅✅`
+> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 BY CRONAZ XD ✅✅`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
